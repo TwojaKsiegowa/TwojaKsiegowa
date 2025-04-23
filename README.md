@@ -86,10 +86,3 @@
   </footer>
 </body>
 </html>
-body {
-    background-color: yellow;
-}
-body {
-    background-image: url('link_do_obrazka');
-    background-size: cover;
-}
