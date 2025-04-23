@@ -70,7 +70,7 @@
       <li>Zawsze online – kontakt mailowy, telefoniczny, przez Zoom</li>
     </ul>
   </section>  <section class="why">
-    <h2>Dlaczego my?</h2>
+    <h2>Dlaczego warto wybrać właśnie nas?</h2>
     <ul>
       <li>Luźna, przyjazna komunikacja</li>
       <li>Brak ukrytych kosztów</li>
