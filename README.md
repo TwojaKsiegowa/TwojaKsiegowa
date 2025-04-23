@@ -15,6 +15,10 @@
       padding: 2rem;
       text-align: center;
     }
+    <header>
+  <img src="img/logo.png" alt="Logo Twoja Księgowa" style="max-width: 200px; display: block; margin: 0 auto 1rem;" />
+  <h1>Zdalne Biuro Rachunkowe TWOJA KSIĘGOWA</h1>
+</header>
     header h1 {
       margin: 0;
       font-size: 2.5rem;
